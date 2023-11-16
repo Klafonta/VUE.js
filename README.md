@@ -27,12 +27,3 @@ npm run dev
 ```sh
 npm run build
 ```
-# VUE.js
-# VUE.js
-# VUE.js
-# VUE.js
-# VUE.js
-# VUE.js
-# VUE.js
-# VUE.js
-# VUE.js
